@@ -1,0 +1,15 @@
+.caja{
+    width: auto;
+    height: auto;
+    margin: auto;
+    padding: auto;
+    border: 5px solid green;
+}
+.container{
+    width: auto;
+    height: auto;
+    margin: auto;
+    padding: auto;
+    border: 10px solid black;
+    
+}
