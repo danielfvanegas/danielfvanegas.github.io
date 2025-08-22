@@ -1,0 +1,67 @@
+body{
+    background-image: url('manzana.jpg'); 
+    background-size: cover; 
+    background-position: center;
+    height: 100vh; 
+    color: black;
+
+}
+
+.caja{
+    width: auto;
+    height: auto;
+    margin: auto;
+    padding: auto;
+    border: 5px solid green;
+}
+.container{
+    width: auto;
+    height: auto;
+    margin: auto;
+    padding: auto;
+    border: 10px solid black;
+    
+}
+.container{
+    display: flex;
+}
+
+table{
+    width: auto;
+    border-collapse: collapse;
+    font-size: medium;
+    border: 3px solid black
+}
+th,td{
+    padding: 7px;
+    border: 1px solid crimson;
+    text-align: left;
+}
+th {
+   background-color: rosybrown 
+}
+
+form{
+display: flex;
+flex-direction: column;
+width: 50%;
+margin-left: 25%;
+margin-right: 25%;
+}
+
+form input{
+    margin: 10px;
+    padding: 10px;
+    font-size: 10px;
+
+}
+
+button{
+    background-color: crimson;
+    border: none;
+    cursor: pointer;
+}
+
+.videos{
+    display: flex;
+}
